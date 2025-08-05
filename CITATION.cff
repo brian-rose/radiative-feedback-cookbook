@@ -31,7 +31,7 @@ authors:
   - family-names: Rooney
     given-names: Kathryn
     orcid: https://orcid.org/0009-0001-6847-0354
-    affiliation: 
+    affiliation: "University at Albany (State University of New York)"
   - name: "Radiative Feedback Cookbook contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/radiative-feedback-cookbook/graphs/contributors"
 title: "Radiative Feedback Cookbook"
