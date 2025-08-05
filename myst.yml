@@ -10,6 +10,10 @@ project:
   copyright: '2024'
   bibliography:
     - bibliography.bib
+  jupyter:
+      binder:
+        repo: projectpythia/radiative-feedback-cookbook
+        url: https://binder.projectpythia.org
   toc:
     - file: README.md
     - title: Preamble
@@ -31,9 +35,7 @@ project:
     - title: Appendix
       children:
         - file: references.md
-  jupyter:
-      binder:
-        repo: projectpythia/radiative-feedback-cookbook
+
 site:
   options:
     logo: notebooks/images/logos/pythia_logo-white-rtext.svg
